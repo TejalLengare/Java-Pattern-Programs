@@ -46,3 +46,10 @@ Pattern programs in Java help you to sharpen your looping concepts(for loop). To
     1 2 3
     1 2 
     1
+
+## 8.ZeroOneTriangle
+    1
+    0 1
+    1 0 1
+    0 1 0 1
+    1 0 1 0 1
